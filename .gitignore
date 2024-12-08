@@ -1,0 +1,4 @@
+.env
+seen_titles.json
+.idea/
+__pycache__/
